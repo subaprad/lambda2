@@ -1,0 +1,1 @@
+print 'lanbda 2'
